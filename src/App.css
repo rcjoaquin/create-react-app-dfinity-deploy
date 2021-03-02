@@ -3,8 +3,13 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 20vmin;
   pointer-events: none;
+}
+
+.dfinity-logo {
+    height: 20vmin;
+    margin-bottom: 15px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
