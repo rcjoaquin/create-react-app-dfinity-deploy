@@ -10,7 +10,7 @@ function App() {
         +
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This app is deployed on Dfinity through Fleek!
+          Esta aplicacion se ha deployado en Dfinity a traves de Fleek. Y lo he hecho yo. Erputoamo...
         </p>
         <a
           className="App-link"
@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn about Dfinity
+          aprende sobre Dfinity
         </a>
         <a
           className="App-link"
@@ -26,7 +26,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn about Fleek
+          Aprende sobre Fleek
         </a>
       </header>
     </div>
